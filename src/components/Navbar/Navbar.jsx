@@ -20,6 +20,9 @@ class Navbar extends Component {
                 <a href="collapsible.html">JavaScript</a>
               </li>
             </ul>
+            <ul id="nav-mobile" class="left hide-on-med-and-down">
+                <li>PAUL KELDSEN - Full Stack Web Developer</li>
+            </ul>
           </div>
         </nav>
       </div>
